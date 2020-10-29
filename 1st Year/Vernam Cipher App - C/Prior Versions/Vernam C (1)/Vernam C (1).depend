@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1588174636 source:c:\users\user\documents\hope google drive\extra projects\vernam cipher apps submit\vernam cipher app_c-edition\vernam c (1)\ciphers.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1588175247 source:c:\users\user\documents\hope google drive\extra projects\vernam cipher apps submit\vernam cipher app_c-edition\vernam c (1)\main.c
+	"ciphers.h"
+
+1588174636 c:\users\user\documents\hope google drive\extra projects\vernam cipher apps submit\vernam cipher app_c-edition\vernam c (1)\ciphers.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
