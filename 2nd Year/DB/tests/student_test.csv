@@ -1,0 +1,4 @@
+firstname,surname,addressLine1,addressLine2,town,county,postcode,country,nextOfKin,nextOfKinNumber,dateOfBirth,emailAddress,phone,feesPaid,authorised
+NULL,James,Princes Park St,NULL,Liverpool,NULL,L12 2PJ,United Kingdom,Niall James,+447939521303,1975-12-25,a.james@mail.com,NULL,NULL,0
+Barry,,Princes Park St,NULL,Liverpool,NULL,L12 2PJ,United Kingdom,Niall James,+447939521303,1975-12-25,b.james@mail.com,NULL,NULL,0
+Althea,James,Princes Park St,NULL,Liverpool,NULL,L12 2PJ,United Kingdom,Niall James,+447939521303,1975-12-25,a.james@mail.com,NULL,NULL,0

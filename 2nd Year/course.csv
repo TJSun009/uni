@@ -1,0 +1,5 @@
+name, level, portfolios, coursework, exams
+CT_Core, I, '[CTC_P1, CTC_P2]', '[CTC_CW1, CTC_CW2]', '[CTC_E1, CTC_E2]'
+CT_Add, I, '[CTA_P1, CTA_P2]', '[CTA_CW1, CTA_CW2]', '[CTA_E1, CTA_E2]'
+SA_Core, I, '[SAC_P1, SAC_P2]', '[SAC_CW1, SAC_CW2]', '[SAC_E1, SAC_E2]'
+SA_Add, I, '[SAA_P1, SAA_P2]', '[SAA_CW1, SAA_CW2]', '[SAA_E1, SAA_E2]'

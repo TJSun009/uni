@@ -1,0 +1,5 @@
+1-name,2-level,3-portfolios,4-coursework,5-exams
+Computer_Technology_Core, I, [Computer_Technology_P1, Computer_Technology_P2] , [Computer_Technology_CW1, Computer_Technology_CW2], [Computer_Technology_E1, Computer_Technology_E2]
+Computer_Technology_Add, I, [Computer_Technology_P1, Computer_Technology_P2] , [Computer_Technology_CW1, Computer_Technology_CW2], [Computer_Technology_E1, Computer_Technology_E2]
+SA_Core, I, [SA_P1, SA_P2] , [SA_CW1, SA_CW2], [SA_E1, SA_E2]
+SA_Add, I, [SA_P1, SA_P2] , [SA_CW1, SA_CW2], [SA_E1, SA_E2] 
