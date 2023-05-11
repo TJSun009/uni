@@ -1,0 +1,10 @@
+onnx
+accelerate
+evaluate
+bert_score
+datasets
+torch
+transformers==4.28.1
+neptune
+bitsandbytes
+protobuf==3.19.0
