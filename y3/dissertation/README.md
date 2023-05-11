@@ -5,9 +5,9 @@ Here we provide in the `dataset-retrieval` directory the original implementation
 To skip this step you can use the data.zip provided. This contains a `src` and `test` directory which are used in all the experiments.
 
 ## GNN AST experiments
-The `test-matcher` directory contains the notebook for transforming the source and unit test files into graphs based on their AST (using the python-graphs library)\n 
+The `test-matcher` directory contains the notebook for transforming the source and unit test files into graphs based on their AST (using the python-graphs library) </br> 
 and then using these for a graph classification task to match source and unit test file
 
 ## TestBERT models
-The `TestBERT` and `TestGBERT` directories contain the notebooks used for conducting the code-to-code translation task as outlined in the dissertation\n
+The `TestBERT` and `TestGBERT` directories contain the notebooks used for conducting the code-to-code translation task as outlined in the dissertation </br>
 The `LongTestBERT` directory contains the untested notebook that could use the Longformer architecture to process whole documents given sufficient compute power
